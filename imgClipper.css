@@ -1,0 +1,23 @@
+.imgClipSlider-horizontal{
+    height: 5px;
+}
+.imgClipSlider-perpendicular{
+    width: 5px;
+}
+.imgClipSlider>.ui-slider-handle{
+    width: 14px;
+    height: 14px;
+    border-radius: 8px;
+}
+.imgClip-fileSelectBtn{
+    position: absolute;
+    left: 30px;
+    bottom: 0px;
+    height: 24px;
+    width: calc(100% - 60px);
+    text-align: left;
+}
+.imgClip-container{
+    position:relative;
+    padding: 30px 30px 40px 30px;
+}
